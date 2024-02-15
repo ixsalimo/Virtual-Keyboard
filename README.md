@@ -5,7 +5,7 @@ A simple virtual keyboard made by pure JavaScript.
 ## Features
 
 - Caps Lock 🔼
-- Clear all texts by double click on <kbd>Backspace</kbd> ✅
+- Clear all texts by right-click on <kbd>Backspace</kbd> ✅
 
 ## Demo
 
